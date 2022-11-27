@@ -3,7 +3,7 @@
 ## Description:
 
 ### Project Description:
-This project is presented a prediction of the Heart Disease for young patients using Data Minings techniques.
+This project is presented a prediction of the Heart Disease for patients using Data Minings techniques.
 
 ### Files Description:
 * Main.ipynb - main Jupyter notebook, where is presented main prediction work.
