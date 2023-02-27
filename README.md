@@ -54,5 +54,3 @@ $jupyter notebook
 * sklearn -  simple and efficient tools for data mining and data analysis
 * marplotlib - Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms
 
-## Authors & License:
-* **Traverse Anastasia** - UCU student, Faculty of Applied Science, Computer Science
