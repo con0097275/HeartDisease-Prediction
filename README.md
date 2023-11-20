@@ -32,11 +32,6 @@ The data reviewed in this study was taken from the UCI Archive. The main data ha
 
 ## Getting Started:
 
-### Clone project to computer:
-To clone project to your computer, from console run:
-```
-$ git clone https://github.com/anastasiatraverse/Heart-Disease-Prediction.git
-```
 
 ### Install packages:
 All the necessary libraries to run the project are in the file: `requirements.txt`. To install them, you should go through the terminal to the folder where the downloaded project is located and write the following:
