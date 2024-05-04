@@ -5,6 +5,8 @@
 ### Project Description:
 This project is presented a prediction of the Heart Disease for patients using Data Minings techniques.
 
+**Note**: The primary task of the entire project is outlined in the file named "Main.ipynb".
+
 ### Files Description:
 * Main.ipynb - main Jupyter notebook, where is presented main prediction work.
 * outliers - in this folder is Outliers Jupyter notebook, Stat_outliers notebook and dataset file of outliers.
